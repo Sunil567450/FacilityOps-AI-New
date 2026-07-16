@@ -34,7 +34,8 @@ README.md
 ## 📸 Project Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/project screenshots/dashboard.png)
+<img width="960" height="540" alt="dashboard png" src="https://github.com/user-attachments/assets/4041bbc1-b04c-43a7-a644-d753aa0723d2" />
+
 
 ### Alerts
 ![Alerts](screenshots/project screenshots/Alerts.png)
