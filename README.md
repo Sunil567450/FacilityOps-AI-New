@@ -34,28 +34,28 @@ README.md
 ## 📸 Project Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/project screenshots/dashboard.png.png)
+![Dashboard](screenshots/project screenshots/dashboard.png)
 
 ### Alerts
-![Alerts](screenshots/project screenshots/Alerts.png.png)
+![Alerts](screenshots/project screenshots/Alerts.png)
 
 ### Buildings
-![Buildings](screenshots/project screenshots/Buildings.png.png)
+![Buildings](screenshots/project screenshots/Buildings.png)
 
 ### Energy
-![Energy](screenshots/project screenshots/Energy.png.png)
+![Energy](screenshots/project screenshots/Energy.png)
 
 ### Reports
-![Reports](screenshots/project screenshots/Reports.png.png)
+![Reports](screenshots/project screenshots/Reports.png)
 
 ### Sensors
-![Sensors](screenshots/project screenshots/sensors.png.png)
+![Sensors](screenshots/project screenshots/sensors.png)
 
 ### Settings
-![Settings](screenshots/project screenshots/Settings.png.png)
+![Settings](screenshots/project screenshots/Settings.png)
 
 ### Login
-![Login](screenshots/project screenshots/login.png.png)
+![Login](screenshots/project screenshots/login.png)
 
 ## 👨‍💻 Developer
 
