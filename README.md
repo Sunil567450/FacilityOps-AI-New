@@ -31,6 +31,31 @@ frontend/
 backend/
 README.md
 ```
+## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](screenshots/project screenshots/dashboard.png.png)
+
+### Alerts
+![Alerts](screenshots/project screenshots/Alerts.png.png)
+
+### Buildings
+![Buildings](screenshots/project screenshots/Buildings.png.png)
+
+### Energy
+![Energy](screenshots/project screenshots/Energy.png.png)
+
+### Reports
+![Reports](screenshots/project screenshots/Reports.png.png)
+
+### Sensors
+![Sensors](screenshots/project screenshots/sensors.png.png)
+
+### Settings
+![Settings](screenshots/project screenshots/Settings.png.png)
+
+### Login
+![Login](screenshots/project screenshots/login.png.png)
 
 ## 👨‍💻 Developer
 
