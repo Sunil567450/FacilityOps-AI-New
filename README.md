@@ -38,25 +38,38 @@ README.md
 
 
 ### Alerts
-![Alerts](screenshots/project screenshots/Alerts.png)
+<img width="960" height="540" alt="Alerts png" src="https://github.com/user-attachments/assets/8767e02b-fe42-4fc1-b799-62cd3abeeef0" />
+
 
 ### Buildings
-![Buildings](screenshots/project screenshots/Buildings.png)
+<img width="960" height="540" alt="Buildings png" src="https://github.com/user-attachments/assets/afd43a82-272b-4687-9a06-5c2ea1f4dc1b" />
+
 
 ### Energy
-![Energy](screenshots/project screenshots/Energy.png)
+<img width="960" height="540" alt="Energy png" src="https://github.com/user-attachments/assets/f139a808-1ebe-43e4-8c73-4f11e4cea918" />
+
 
 ### Reports
-![Reports](screenshots/project screenshots/Reports.png)
+<img width="960" height="540" alt="Reports png" src="https://github.com/user-attachments/assets/41eb7c99-0e5b-4803-a0d1-612937f50a99" />
+
 
 ### Sensors
-![Sensors](screenshots/project screenshots/sensors.png)
+
+<img width="960" height="540" alt="sensors png" src="https://github.com/user-attachments/assets/2e412c31-bde0-4268-a5ae-3aa868a7be95" />
 
 ### Settings
-![Settings](screenshots/project screenshots/Settings.png)
+
+<img width="960" height="540" alt="Setings png" src="https://github.com/user-attachments/assets/a712fbb5-eeca-47a1-a987-4ee28f6b179c" />
 
 ### Login
-![Login](screenshots/project screenshots/login.png)
+<img width="960" height="540" alt="login png" src="https://github.com/user-attachments/assets/a395d17e-9816-44f7-89cc-b34c311e88c4" />
+
+## 🚀 Future Enhancements
+- AI Predictive Maintenance
+- IoT Integration
+- Live Notifications
+- Cloud Deployment
+
 
 ## 👨‍💻 Developer
 
